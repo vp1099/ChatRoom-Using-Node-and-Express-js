@@ -8,6 +8,8 @@ Realtime chat app that is powered by :
 
 4.Socket.io with Vanilla JS on the frontend with a custom UI
 
+Try the app out instantly using Repl.it :
+
 [![Run on Repl.it](https://repl.it/badge/github/vp1099/ChatRoom-Using-Node-and-Express-js)](https://repl.it/github/vp1099/ChatRoom-Using-Node-and-Express-js)
 
 
