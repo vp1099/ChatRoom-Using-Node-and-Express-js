@@ -1,5 +1,5 @@
 # ChatRoom App with multiple rooms
-Realtime chat app that is powered by :
+This is a chatroom application that is powered by and it is real time :
 1.websockets
 
 2.Node.js 
