@@ -8,7 +8,7 @@ Realtime chat app that is powered by :
 
 4.Socket.io with Vanilla JS on the frontend with a custom UI
 
-[![Run on Repl.it](https://repl.it/badge/github/bradtraversy/chatcord)](https://repl.it/github/bradtraversy/chatcord)
+[![Run on Repl.it](https://repl.it/badge/github/vp1099/ChatRoom-Using-Node-and-Express-js)](https://repl.it/github/vp1099/ChatRoom-Using-Node-and-Express-js)
 
 
 ## Usage
